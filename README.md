@@ -73,7 +73,7 @@ I'm open to discussing web development projects, collaboration, and opportunitie
 
 - **Portfolio:** [siddiqohibrahim.github.io/siddiqah-portfolio](https://siddiqohibrahim.github.io/siddiqah-portfolio/)
 - **Email:** siddiqohibrahim@gmail.com
-- **LinkedIn:** linkedin.com/in/siddiqah-ibrahim-7b73043a6
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/siddiqah-ibrahim-7b73043a6/)
 
 ---
 
