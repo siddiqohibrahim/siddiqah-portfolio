@@ -6,13 +6,13 @@ I'm Siddiqah Ibrahim, a Web & Full-Stack Developer building responsive websites 
 
 I work across frontend development, backend integration, database management, authentication, and application functionality to create practical digital solutions for businesses and users.
 
-## 🌐 Live Portfolio
+##  Live Portfolio
 
 Explore my portfolio to see my projects, development work, and contact information.
 
 [Visit My Portfolio](https://siddiqohibrahim.github.io/siddiqah-portfolio/)
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### EstateSpace — Real Estate Web Platform
 
@@ -51,14 +51,14 @@ A responsive multi-page website created for an interior design brand, presenting
 
 [View Aurelia Interiors](https://siddiqohibrahim.github.io/aurelia-interiors/)
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 - Frontend: HTML5, CSS3, JavaScript, React, Bootstrap, Tailwind CSS
 - Backend: Node.js, Express.js, Supabase, REST APIs, Edge Functions
 - Database: SQL, PostgreSQL
 - Development Tools: Git, GitHub, npm, Visual Studio Code
 
-## 🎯 What I Build
+##  What I Build
 
 - Responsive business websites
 - Functional web applications
@@ -67,7 +67,7 @@ A responsive multi-page website created for an interior design brand, presenting
 - Interactive dashboards
 - Frontend and backend integrations
 
-## 📫 Contact
+##  Contact
 
 I'm open to discussing web development projects, collaboration, and opportunities to build useful digital solutions.
 
